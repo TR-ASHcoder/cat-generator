@@ -3,4 +3,7 @@
 
 
 # reminders:
-- the `index.html` ***MUST*** stay in the `templates` folder or it will not work 
+- the `index.html` file ***MUST*** stay in the `templates` folder or it will not work 
+- this site uses `flask` for its API support 
+
+ok thats all you need to know, enjoy
