@@ -1,4 +1,4 @@
-#  ![lol-min](https://user-images.githubusercontent.com/90879002/209036523-a7d16dfd-48c4-4888-b949-b900dd1eae39.jpg) cat-generator
+#  cat-generator
 <strong><i>a site that generates cats</i></strong> 
 
 
@@ -8,3 +8,39 @@
 - API thats used: https://some-random-api.ml/animal/cat
 
 ok thats all you need to know, enjoy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![lol-min](https://user-images.githubusercontent.com/90879002/209036523-a7d16dfd-48c4-4888-b949-b900dd1eae39.jpg) 
