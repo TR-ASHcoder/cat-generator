@@ -1,4 +1,4 @@
-# https://cdn.discordapp.com/attachments/1042356422702276678/1055291070335955014/lol.jpg cat-generator
+#  ![lol-min](https://user-images.githubusercontent.com/90879002/209036523-a7d16dfd-48c4-4888-b949-b900dd1eae39.jpg) cat-generator
 <strong><i>a site that generates cats</i></strong> 
 
 
