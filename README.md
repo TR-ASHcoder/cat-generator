@@ -1,6 +1,6 @@
 # cat-generator
-<i>a site that generates cats</i> 
+<strong><i>a site that generates cats</i></strong> 
 
 
-#reminders:
+# reminders:
 - the `index.html` ***MUST*** stay in the `templates` folder or it will not work 
