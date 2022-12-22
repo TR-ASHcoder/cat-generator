@@ -14,8 +14,8 @@ def get_cat():
   
 @app.route('/')
 def index():
-    kys, fact = get_cat()
-    return render_template("index.html", kys = kys, fact = fact)
+    cat, fact = get_cat()
+    return render_template("index.html", cat = cat, fact = fact)
  
 app.run(host="0.0.0.0", port=8080)
 
