@@ -6,7 +6,7 @@ import json
 app = Flask(__name__)
 
 def get_cat():
-  url = "https://some-random-api.ml/animal/cat"
+  url = "https://some-random-api.com/animal/cat"
   response = json.loads(requests.request("GET", url).text) 
   image = response['image']
   fact = response['fact']
